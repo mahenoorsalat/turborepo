@@ -26,7 +26,6 @@ artifacts
 .turbo
 .vercel
 .DS_Store
-.env
 vendor/
 data
 *.log
@@ -63,3 +62,4 @@ file_descriptor_set.bin
 
 # include test fixtures for vt100
 !crates/turborepo-vt100/tests/data
+config.bat
