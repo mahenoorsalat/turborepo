@@ -30,7 +30,6 @@ artifacts
 .turbo
 .vercel
 .DS_Store
-.env*
 vendor/
 data
 *.log
@@ -63,3 +62,4 @@ file_descriptor_set.bin
 .devcontainer/cache/
 .devcontainer/cargo/
 .env*.local
+config.bat
